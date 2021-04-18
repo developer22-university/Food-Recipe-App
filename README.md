@@ -8,7 +8,7 @@ A food recipes webapp with clean user interface powered by TheMealDB free API.
 
 - Make sure you have NodeJS and Angular's latest versions intalled.
 - Open your workspace and preferred IDE. You can also use `https://gitpod.io/`.
-- Clone this repository: `git clone https://github.com/NitinNair89/TheHungryRecipesApp.git`.
+- Clone this repository: `git clone https://github.com/developer22-university/Food-Recipe-App.git`.
 - Open the newly created directory: `cd TheHungryRecipesApp`.
 - Install project dependencies: `npm install` or `npm i`.
 - If installation finds any vulnerabilities, it will notify you. You can attempt autofix using `npm audit fix`. If you want more information about the vulnerabilities, run `npm audit`.
